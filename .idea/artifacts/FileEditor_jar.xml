@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="FileEditor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FileEditor_jar</output-path>
+    <root id="archive" name="FileEditor.jar">
+      <element id="module-output" name="FileEditor" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/out/artifacts/testEditor_jar/testEditor.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/main/resources/libs/spring-core-5.1.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/main/resources/libs/org.apache.commons.io.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

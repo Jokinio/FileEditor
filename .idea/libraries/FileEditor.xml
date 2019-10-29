@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="FileEditor">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/testEditor_jar/testEditor.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/resources/libs/spring-core-5.1.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/resources/libs/org.apache.commons.io.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
