@@ -1,5 +1,5 @@
 # ReplaceStrings
-Automated String Replace on text files (including large files) using Regex. Reading from XML the old and new strings(regex) that will be replaced. Creating a new folder with the new content.
+Automated String Replaces on files that contains text (including large files) using Regex. Reading from XML the old and new strings(regex) that will be replaced. Creating a new folder with the new content.
 
 1) Needs java 11(java runtime) to run the app.
 2) There is an XML file that you have to modify and add all the changes you want to be performed (oldString (regex) -> newString (regex)).
